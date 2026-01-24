@@ -9,7 +9,7 @@
 
 <br />
 
-#  Raghd Al-Sarawneh  👩‍💻
+#  Raghd Al-Sharawneh  👩‍💻
 ###  AI Student | Artificial Intelligence
 
 ---
