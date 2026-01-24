@@ -28,6 +28,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+- 💼 LinkedIn: **[https://www.linkedin.com/in/raghadalsharawneh/)**
+
 
 ```python
 # tools_I_use organized
