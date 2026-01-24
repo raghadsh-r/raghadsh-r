@@ -33,8 +33,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+  <img src="./bf783f46-f190-450d-a8a2-95b8f7a2d78b.png" width="400"/>
 </div>
+
 
 ---
 
