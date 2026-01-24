@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&width=600&lines=Hello+I'm+Raghd+Al-Sarawneh;AI+Student+%F0%9F%A4%96;Learning+%26+Building+Every+Day" />
+
 
 <details>
 <p><strong> <summary>  Busy learning AI & Vibing to :   </summary> </strong></p>
