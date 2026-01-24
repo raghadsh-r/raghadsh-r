@@ -1,6 +1,11 @@
 <div align="center" width="50">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&width=600&lines=Hello+I'm+Raghd+Al-Sarawneh;AI+Student+%F0%9F%A4%96;Learning+%26+Building+Every+Day" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=F7931E&center=true&vCenter=true&width=650&lines=Hello+I'm+Raghd+Al-Sarawneh;AI+Student+%F0%9F%A4%96;Learning+AI+One+Step+at+a+Time" />
+
+</div>
 
 
 <details>
