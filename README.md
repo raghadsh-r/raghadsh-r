@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&width=650&lines=Hello+I'm+Raghd+Al-Sarawneh;AI+Student+%F0%9F%A4%96;Learning+%26+Building+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F7931E&center=true&vCenter=true&width=650&lines=Hello+I'm+Raghd+Al-Sharawneh;AI+Student+%F0%9F%A4%96;Learning+%26+Building+Every+Day" />
 
 <details>
 <summary><strong> Busy learning AI & Vibing to :</strong></summary>
