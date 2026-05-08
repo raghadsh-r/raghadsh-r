@@ -45,5 +45,5 @@ class About:
         "Programming": ["Python"],
         "AI": ["Machine Learning", "Deep Learning"],
         "Data": ["Pandas", "NumPy"],
-        "Tools": ["Jupyter", "Git"]
+        "Tools": ["Jupyter", "Git","kaggle"]
     }
