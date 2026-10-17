@@ -27,8 +27,6 @@
 ![c](https://img.shields.io/badge/c-20BEFF?style=for-the-badge&logo=c&logoColor=white)
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghadalsharawneh/)
-
 ---
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
